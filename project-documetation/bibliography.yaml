@@ -1,0 +1,28 @@
+troitsk-nu-mass:
+  id: Nozik_2020
+  type: article
+  doi: 10.1088/1742-6596/1525/1/012024
+  url: https://dx.doi.org/10.1088/1742-6596/1525/1/012024
+  year: 2020
+  month: apr
+  publisher: IOP Publishing
+  volume: 1525
+  number: 1
+  pages: 012024
+  author: Nozik, Alexander
+  title: Declarative analysis in “Troitsk nu-mass” experiment
+  abstract: >
+    The modern scientific data processing is not only a collection of powerful
+    algorithms but also a whole infrastructure of facilities for data reading,
+    processing, and results output. As the amount of data grows, so grows a need
+    for automation of the process. The proper automation requires not only improvement
+    of existing frameworks, but also a search of new ways to organize data processing
+    in a way it could be automated and parallelized. DataForge experimental framework
+    solves some problems by making the analysis configuration declarative instead
+    of imperative. In this article, we present a limited demonstration of the idea
+    applied to “Troitsk nu-mass” experiment in the search for sterile neutrino.
+  electronic:
+    url: https://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012024
+    access-date: "2025-02-28"
+
+
